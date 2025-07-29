@@ -124,9 +124,9 @@
         "name": "GDIndex"
     },
     {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
+        "iconUrl": "https://github.com/mailpiyushk02/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/mailpiyushk02/CSX",
         "fileSize": 25075,
         "status": 1,
         "language": "hi",
@@ -142,13 +142,13 @@
         "version": 22,
         "internalName": "MoviesDrive",
         "description": "High Quality Movies and TV Shows",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/MoviesDrive.cs3",
+        "url": "https://raw.githubusercontent.com/mailpiyushk02/CSX/builds/MoviesDrive.cs3",
         "name": "MoviesDrive"
     },
     {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
+        "iconUrl": "https://github.com/mailpiyushk02/CSX/raw/refs/heads/master/Moviesmod/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "repositoryUrl": "https://github.com/mailpiyushk02/CSX",
         "fileSize": 28569,
         "status": 1,
         "authors": [
