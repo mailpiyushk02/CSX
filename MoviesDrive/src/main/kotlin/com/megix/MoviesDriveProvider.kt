@@ -13,7 +13,7 @@ import kotlinx.coroutines.runBlocking
 import org.json.JSONObject
 
 class MoviesDriveProvider : MainAPI() { // all providers must be an instance of MainAPI
-    override var mainUrl = "https://moviesdrive.design"
+    override var mainUrl = "https://moviesdrive.zip"
     override var name = "MoviesDrive"
     override val hasMainPage = true
     override var lang = "hi"
